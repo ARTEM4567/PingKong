@@ -1,4 +1,3 @@
-# *PingKong*
+# *PingPong*
 
-- амогус?
-- фистинг.
+Simple js-game
